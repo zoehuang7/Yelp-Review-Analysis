@@ -1,4 +1,5 @@
 # Yelp-Review-Analysis
+**Dataset Link: https://www.kaggle.com/yelp-dataset/yelp-dataset**
 # 1. Overall Project Objectives
 Yelp is an application to provide the platform for customers to write reviews and provide a star-rating. A research indicates that a one-star increase led to 59% increase in revenue of independent restaurants. Therefore, we see great potential of Yelp dataset as a valuable insights repository.
 
